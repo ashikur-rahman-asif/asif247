@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashikur Rahman Asif</h1>
-<h3 align="center">Passionate MERN stack developer dedicated to creating exceptional web applications with expertise in MongoDB, Express.js, React.js, and Node.js.</h3>
+<h3 align="center">Passionate MERN stack developer dedicated to create exceptional web applications with expertise in MongoDB, Express.js, React.js, and Node.js.</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
