@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashikur-rahman-asif-b8aa7a216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikur-rahman-asif-b8aa7a216" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashikur-rahman-asif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashikur-rahman-asif-b8aa7a216" height="30" width="40" /></a>
 <a href="https://fb.com/ashikurrahman1s9f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashikurrahman1s9f" height="30" width="40" /></a>
 </p>
 
